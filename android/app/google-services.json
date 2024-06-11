@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287266990294",
+    "project_id": "neru-aee0f",
+    "storage_bucket": "neru-aee0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287266990294:android:1ce5b80ea355a1de000177",
+        "android_client_info": {
+          "package_name": "com.example.neru_demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJpUx79CJNbMTFGjqoX1vwUx9-Ek2SFlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
